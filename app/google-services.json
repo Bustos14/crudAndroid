@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969084499992",
+    "project_id": "proyectopdmparejas",
+    "storage_bucket": "proyectopdmparejas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969084499992:android:189b3bc4e8c0be42ea2b6d",
+        "android_client_info": {
+          "package_name": "com.example.definitivecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969084499992-3e96joev5t2rkfvg19e8kg85pcqpar3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCCvtH4vfIl7MoFHdmtgwuJugbxXAbfDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969084499992-3e96joev5t2rkfvg19e8kg85pcqpar3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
